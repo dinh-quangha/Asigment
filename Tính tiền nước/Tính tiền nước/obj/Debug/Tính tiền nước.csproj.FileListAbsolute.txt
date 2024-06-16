@@ -1,0 +1,7 @@
+D:\C sharp\Tính tiền nước\Tính tiền nước\bin\Debug\Tính tiền nước.exe.config
+D:\C sharp\Tính tiền nước\Tính tiền nước\bin\Debug\Tính tiền nước.exe
+D:\C sharp\Tính tiền nước\Tính tiền nước\bin\Debug\Tính tiền nước.pdb
+D:\C sharp\Tính tiền nước\Tính tiền nước\obj\Debug\Tính tiền nước.csproj.AssemblyReference.cache
+D:\C sharp\Tính tiền nước\Tính tiền nước\obj\Debug\Tính tiền nước.csproj.CoreCompileInputs.cache
+D:\C sharp\Tính tiền nước\Tính tiền nước\obj\Debug\Tính tiền nước.exe
+D:\C sharp\Tính tiền nước\Tính tiền nước\obj\Debug\Tính tiền nước.pdb
